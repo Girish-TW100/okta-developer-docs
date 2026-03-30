@@ -74,6 +74,7 @@ guides:
  - mfa
  - migrate-customizations
  - migrate-to-okta-prerequisites
+ - test-migration-plan
  - migrate-to-okta-bulk
  - migrate-to-okta-password-hooks
  - mobile-idx-sdk-overview
